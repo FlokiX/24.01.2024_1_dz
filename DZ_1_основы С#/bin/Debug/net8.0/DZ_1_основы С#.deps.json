@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DZ_1_основы С#/1.0.0": {
+        "runtime": {
+          "DZ_1_основы С#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DZ_1_основы С#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
